@@ -1,0 +1,53 @@
+/* Gemistan CSS */
+
+.ph {
+    font-family: 'Lobster', serif;
+    font-size: 26px;
+}
+body {
+    background-image: url(images/brushed.png);
+}
+h1,
+h2,
+h3 {
+    font-family: 'Bree Serif', serif;
+}
+p {
+    text-align: justify;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+}
+.link {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-transform: uppercase;
+}
+.content {
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 2px;
+}
+div div div section img {
+    margin-top: 15px;
+}
+.rice {
+    background-image: url(images/crossword.png);
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.brushed {
+    background-image: url(images/brushed.png);
+    border-radius: 5px;
+    margin-top: 30px;
+}
+.ndsp {
+    margin-top: 30px;
+}
+#footer {
+    background-image: url(images/zwartevilt.png);
+    padding-top: 20px;
+    margin-top: 20px;
+}
+#map-container {
+    height: 360px;
+}
